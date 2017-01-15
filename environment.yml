@@ -1,0 +1,9 @@
+name: CarND-LaneLines-P1
+dependencies:
+- pip >= 9
+- jupyter
+- menpo::opencv3
+- pillow
+- matplotlib
+- numpy
+- moviepy
